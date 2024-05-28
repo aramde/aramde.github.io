@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=TildaSans&display=swap');
+
+body{
+    font-family: Ubuntu, serif;
+    background: linear-gradient(90deg, #cfcfcf 0%, #db9f75 100%);
+}
+
+.opis{
+    color: #3E2411;
+    text-align: center;
+    font-size: 50px;
+}
+
+.pric-text{
+    font-size: 40px;
+    color: #3E2411;
+    text-align: center;
+}
+
+.nom-text{
+    font-size: 25px;
+    color: #3E2411;
+    text-align: center;
+}
+
+.imgg{
+    width: 820px;
+    height: 477px;
+}
+
+.navbar{
+    background: #3E2411;
+}
+
+.nav-link{
+    color: #db9f75;
+}
+
+.navbar-nav .nav-link.active{
+    color: #804012;
+}
+
+.navbar-brand{
+    width: 50px;
+    color: #db9f75;
+}
+
+.navbar-toggler{
+    background-color: #804012;
+}
+
+.right-bar p {
+    margin: 1em;
+    padding: 1em;
+    border-width: 0/5px;
+    color:#804012;
+    font-size: 20px;
+
+}
+
+.bar p {
+    margin: 1em;
+    padding: 1em;
+    border-width: 0/5px;
+    color:#804012;
+    font-size: 20px;
+}
+
+.sidebar{
+    color: #804012;
+    background: linear-gradient(270deg, #cfcfcf 0%, #db9f75 100%);
+}
+
+.card{
+    background: linear-gradient(270deg, #cfcfcf 0%, #db9f75 100%);
+}
+
+.btn{
+    background-color: #804012;
+    color: #db9f75;
+}
+
+section#sub{
+    height: 100vh;
+    margin-bottom: 15vh;
+    background-size: 100% 100%;
+}
+
+.footer-text{
+    color: #804012;
+    margin: auto auto;
+}
+
+footer{
+    background: linear-gradient(270deg, #cfcfcf 0%, #db9f75 100%);
+}
+
+.media-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mailto{
+    color: black;
+    text-decoration: none;
+}
+
+.t-descr{
+    font-size: 22px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+
+
